@@ -32,3 +32,4 @@ C:\Users\Alina\source\repos\Lb1SysProgr\Lb1SysProgr\obj\Debug\Lb1SysPr.DBEF5011.
 C:\Users\Alina\source\repos\Lb1SysProgr\Lb1SysProgr\obj\Debug\Lb1SysProgr.exe
 C:\Users\Alina\source\repos\Lb1SysProgr\Lb1SysProgr\obj\Debug\Lb1SysProgr.pdb
 C:\Users\Alina\source\repos\Lb1SysProgr\Lb1SysProgr\obj\Debug\Lb1SysProgr.ListItem.resources
+C:\Users\Alina\source\repos\Lb1SysProgr\Lb1SysProgr\obj\Debug\Lb1SysProgr.Form2.resources

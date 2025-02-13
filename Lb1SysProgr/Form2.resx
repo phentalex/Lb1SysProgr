@@ -117,14 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="notifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAACwwAAAsMAT9AIsgAAP+WSURBVHhe7P3nlx3Hdb6B3v/2
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAACxAAAAsQAa0jvXUAAP+WSURBVHhe7P3nlx3Hdb6B3v/2
         2r/rIFlpeUlLMk2Bpk2TFqlgUqZkmCRIgCAAAjiTc8455xkMcs4EmOrWs+vUYDAqiiCB6j4DvB+eNcAR
         hd6nurqn3h3/P//f5n8RYi9OCCGEEEIIse9JnfXFC0zyQ/FCkHpBCCGEEEIIIV4MUhpBPOckPxTPFamH
         XQghhBBCCCFSpDSFeE5Ifij2LakHWAghhBBCCCG+LyndIfYpyQ/FviH1gAohhBBCCCFETlLaROwDkh+K
